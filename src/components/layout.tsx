@@ -12,20 +12,25 @@ const Layout = ({ children }: LayoutProps) => (
     <SEO />
     <header>
       <div className="title">
-        <Link to="/">Hojin&apos;s Note</Link>
+        <Link to="/">Hojin&apos;s DevLog</Link>
       </div>
       <nav className="nav">
         <ul>
           <li>
-            <Link to="/series">
-              Series
+            <Link to="/about">
+              About
             </Link>
           </li>
-          {/* <li>
-              <Link to="/contact">
-                contact
-              </Link>
-            </li> */}
+          <li>
+            <Link to="/blog">
+              Blog
+            </Link>
+          </li>
+          <li>
+            <Link to="/projects">
+              Projects
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>

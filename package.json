@@ -1,9 +1,9 @@
 {
-  "name": "hojin-s-note",
+  "name": "hojin-s-devlog",
   "version": "1.0.0",
   "private": true,
-  "description": "hojin's note",
-  "author": "froggagul",
+  "description": "hojin's portfolio",
+  "author": "Jung Hojin",
   "keywords": [
     "gatsby"
   ],
