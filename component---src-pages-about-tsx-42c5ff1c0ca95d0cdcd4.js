@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhojin_s_devlog=self.webpackChunkhojin_s_devlog||[]).push([[49],{249:function(e,t,n){n.r(t);var l=n(7294),a=n(6722),u=n(4471);t.default=function(){return console.log(1),l.createElement(a.Z,null,l.createElement(u.Z,{title:"about"}),l.createElement("section",{className:"About"},l.createElement("h1",null,"Hojin Jung"),l.createElement("h1",null,"정호진"),l.createElement("p",null,"Undergraduate student at Korea University.",l.createElement("br",null))))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-42c5ff1c0ca95d0cdcd4.js.map

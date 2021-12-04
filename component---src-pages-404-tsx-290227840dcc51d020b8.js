@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhojin_s_devlog=self.webpackChunkhojin_s_devlog||[]).push([[218],{9786:function(e,t,l){l.r(t);var n=l(7294),a=l(6722),c=l(4471);t.default=function(){return n.createElement(a.Z,null,n.createElement(c.Z,{title:"404"}),n.createElement("h1",{className:""},"404!"),n.createElement("h2",{className:""},"페이지가 안보이네요... 혹시 이걸 찾으셨나요?!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-290227840dcc51d020b8.js.map

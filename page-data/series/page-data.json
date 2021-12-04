@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-series-tsx",
     "path": "/series/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"a68946fe-9880-5ff5-a4cc-04b5e5fa1988","fields":{"series":"글쓰는 사람으로 성장하기"}}},{"node":{"id":"efa1c97e-7e9b-5826-a22d-5702a6f11ec8","fields":{"series":"글쓰는 사람으로 성장하기"}}},{"node":{"id":"09514480-5bae-5b6f-ad0d-b82ee34abf98","fields":{"series":"글쓰는 사람으로 성장하기"}}},{"node":{"id":"e7933539-9c87-5e28-b38c-54f88081a8da","fields":{"series":"글쓰는 사람으로 성장하기"}}},{"node":{"id":"07c0c3bb-4b84-5f34-9253-671eabca1ab1","fields":{"series":"동아리 회장 생존기"}}},{"node":{"id":"2ccaa6c9-6f71-59bb-9ea7-7c6d0120bd88","fields":{"series":"동아리 회장 생존기"}}},{"node":{"id":"01422d53-0c44-5940-b4fb-94c01ea9a1bf","fields":{"series":"동아리 회장 생존기"}}},{"node":{"id":"5acc0ffd-a278-5920-a372-124a9aab9d9b","fields":{"series":"동아리 회장 생존기"}}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"d6e6e02f-54be-5adf-a924-5ea2bc15d2c1","fields":{"series":"math"}}}]}},"pageContext":{}},
     "staticQueryHashes": ["2492723766"]}
