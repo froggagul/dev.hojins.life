@@ -2,10 +2,10 @@ const Hangul = require('hangul-js');
 
 module.exports = {
   siteMetadata: {
-    title: "Hojin's Note",
-    titleTemplate: "Hojin's Note | %s",
-    siteUrl: 'https://www.hojins.life',
-    description: 'I\'m writing my own feelings on this blog',
+    title: "Hojin's Devlog",
+    titleTemplate: "Hojin's Devlog | %s",
+    siteUrl: 'https://dev.hojins.life',
+    description: 'Hojin Jung\'s portfolio',
     twitterUsername: 'froggagul',
   },
   plugins: [

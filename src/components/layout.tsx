@@ -22,8 +22,8 @@ const Layout = ({ children }: LayoutProps) => (
             </Link>
           </li>
           <li>
-            <Link to="/blog">
-              Blog
+            <Link to="/devlog">
+              DEVlog
             </Link>
           </li>
           <li>
