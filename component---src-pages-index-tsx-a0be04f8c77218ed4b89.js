@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhojin_s_devlog=self.webpackChunkhojin_s_devlog||[]).push([[691],{8308:function(e,n,t){t.r(n);var l=t(7294),o=t(6722),u=t(4471);n.default=function(){return l.createElement(o.Z,null,l.createElement(u.Z,{title:"home"}),l.createElement("h1",null,"coming soon..."))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-a0be04f8c77218ed4b89.js.map
