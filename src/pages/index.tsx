@@ -28,6 +28,7 @@ const IndexRoute = () => {
   return (
     <Layout>
       <SEO title="home" />
+      <h1>coming soon...</h1>
       {/* 이름, 영어 */}
       {/* 사진 */}
       {/* contact */}
