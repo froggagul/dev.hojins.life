@@ -1,9 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-// import useFlexSearch from '../components/hooks/useFlexSearch';
 import Layout from '../components/layout';
-// import SearchBar from '../components/search';
-// import Post from '../components/post';
 import SEO from '../components/seo';
 
 interface IndexRouteProps {
@@ -29,6 +26,7 @@ const IndexRoute = () => {
     <Layout>
       <SEO title="home" />
       <h1>coming soon...</h1>
+      
       {/* 이름, 영어 */}
       {/* 사진 */}
       {/* contact */}
